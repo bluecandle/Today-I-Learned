@@ -87,3 +87,15 @@ dilatory 미적거리는
 rind 껍질 ( fruit rinds ⇒ 과일 껍질들)
 
 elusive 찾기 힘든 , 규정하기 힘든 ( an elusive rhythm, a fragment of lost words, that I heard somewhere a long time ago )
+
+Today 
+
+pigsty 돼지우리같이 지저분한 곳
+
+caravansary 큰 여관
+
+harrowing 끔찍한, 참혹한
+
+simmer 부글부글 끓다 (simmering 당장이라도 폭발할 것 같은)
+
+perspire 땀을 흘리다.
