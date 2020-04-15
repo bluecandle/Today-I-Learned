@@ -133,5 +133,5 @@ disquieting 불안을 조성하는
 
 vigil (철야)농성, (밤샘) 간호
 
-    Over the ashheaps the giant eyes of Docter T.J. Eckleburg kept their bigil, but I perceived, after a moment, that other eyes
+    Over the ashheaps the giant eyes of Docter T.J. Eckleburg kept their vigil, but I perceived, after a moment, that other eyes
     were regarding us with peculiar intensity from less than twenty feet away.
