@@ -99,3 +99,39 @@ harrowing 끔찍한, 참혹한
 simmer 부글부글 끓다 (simmering 당장이라도 폭발할 것 같은)
 
 perspire 땀을 흘리다.
+
+Today 
+
+gruff 걸걸한, 거친
+
+bona-fide 진실된, 진짜의
+
+clog (on) 막다, 막히다
+
+stagnant 고여있는, 침체된
+
+scallop 부채꼴, 부채꼴or물결 장식을 하다 \ scalloped ocean 물결진 파도가 있는 바다를 묘사.
+
+morbid 병적인, 소름끼치는
+
+moulder 썩다
+
+    'Her voice is full of money,' he said suddenly.
+    That was it. I'd never understood before. It was full of money - that was the inexhaustible charm that rose and fell in it,
+    the jingle of itm the cymbals' song of it... High in a white palace the king's daughter, the golden girl...
+
+irritable 화가 난, 짜증을 내는
+
+fading ale... ???
+
+alight 불붗다, 내리다(앉다)
+
+    The relentless beating heat was beginning to confuse me and I had a bad moment there before I realized that so far
+    his suspicions hadn't alighted on Tom.
+
+disquieting 불안을 조성하는
+
+vigil (철야)농성, (밤샘) 간호
+
+    Over the ashheaps the giant eyes of Docter T.J. Eckleburg kept their bigil, but I perceived, after a moment, that other eyes
+    were regarding us with peculiar intensity from less than twenty feet away.
