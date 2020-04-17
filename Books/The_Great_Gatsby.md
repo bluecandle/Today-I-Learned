@@ -135,3 +135,59 @@ vigil (철야)농성, (밤샘) 간호
 
     Over the ashheaps the giant eyes of Docter T.J. Eckleburg kept their vigil, but I perceived, after a moment, that other eyes
     were regarding us with peculiar intensity from less than twenty feet away.
+
+Today 
+
+inviolate 존중되어온, 어쨌든 여태 안 건드려졌다는 의미
+
+precipitately 다급히ㅡ 갑자기
+
+sensuous 감각적인
+
+disquiet 불안, 동요 (disquieting 불안을 조성하는)
+
+dart down 달려 내리다
+
+parlour 응접실
+
+tumultuous 떠들썩한
+
+elude (교묘히)피하다 \ 이룰 or 기억할 수 없다
+
+gust 돌풍
+
+crab about ~에 대해 투덜거리다
+
+portentous 전조가 되는, 거들먹거리는
+
+row 말다툼, 언쟁
+
+libertine 난봉꾼 prig 좀도둑??
+
+    The transition from libertine to prig was so complete.
+
+vicariously 대리로
+
+grope 더듬다 (여기서는 말을 더듬는 의미로 쓰였음)
+
+sagely 점잔빼며
+
+spree 흥청망청, 한바탕
+
+revolting 혐오스러운
+
+rancour 원한, 앙심
+
+swindler 사기꾼
+
+leave (someone) in the lurch (도움이 필요한 누군가)를 저버리다.
+
+    And you left him in the lurch, didn't you?
+
+magnanimous (특히 적에게) 너그러운
+
+presumptuous 주제넘은
+
+exulting 환희하는
+
+tumult 소동
