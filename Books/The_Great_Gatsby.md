@@ -191,3 +191,26 @@ presumptuous 주제넘은
 exulting 환희하는
 
 tumult 소동
+
+Today 
+
+2020.04.19
+
+dusk 황혼, 땅거미
+
+expostulation 충고
+
+clamorously 떠들썩하게
+
+gruffness 무뚝뚝함, 목소리가 걸걸함
+
+truculent 반항적인, 약간 공격적인
+
+despicable 비열한
+
+wince (당혹함, 통증 등으로)움찔하고 놀라다
+
+mar 손상시키다
+
+    He put his hands in his coat pockets and turned back eagerly to his scrutiny of the house, as though my presence
+    ***marred*** the sacredness of the vigil.
