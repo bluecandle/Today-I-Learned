@@ -214,3 +214,55 @@ mar 손상시키다
 
     He put his hands in his coat pockets and turned back eagerly to his scrutiny of the house, as though my presence
     ***marred*** the sacredness of the vigil.
+
+4월 21, 2020 
+
+2020.04.21
+
+dejection 실의, 낙담
+
+wanly 파리하게, 가냘프게
+
+musty 퀴퀴한, 냄새가 나는
+
+ravenously 게걸스럽게, 갈망하여
+
+unscrupulously 부도덕하게 ( scrupulous 세심함, 양심적인 )
+
+strata 지층, 단층 \ 사회 계층 (stratum 의 복수형)
+
+grail 성배, (아무리 찾아도 이룰 수 없는 것)
+
+    ~~ - but now he found that he had committed himself to the following of a grail.
+
+throb 욱신거리다 \ (소리가 규칙적으로 강하게) 울리다, 고동치다
+
+    At the grey tea hour there were always rooms that throbbed incessantly with this low, sweet fever, while fresh faces drifted
+    here and there like rose petals blown by the sad horns around th floor.
+
+vestibule 현관, (기차의 객차) 연결통로
+
+wisp (가는) 조각, (연기,구름)줄기
+
+corroborate (증거나 정보를) 제공하다, 확증하다 (= confirm 과 비슷하게 쓰인다)
+
+divot 디보트...? 골프 치다가 뜯긴 잔디같은걸 이렇게 부른다고 함.
+
+exasperate 몹시 짜증나게 하다 ( = infuriate)
+
+    I called Gatsby's house a few minutes later, but the line was busy. I tried four times; finally an exasperated central told me
+    the wire was being kept open for long distance from Detroit.
+
+garrulous 수다스러운
+
+blurt 불쑥 내밀다 (여기서는 blurt out 으로 사용하여 갑자기 말하는 모습을 나타낸듯.)
+
+    He announced that he had a way of finding out whom the yellow car belonged to , and then he blurted out that a couple of
+    months ago his wife had come from the city with her face bruised and her nose swollen.
+
+bewilder 어리둥절하게 만들다. (bewildered 어리둥절한)
+
+scurry 종종걸음 치다 \ 허둥지둥 가다
+
+    Wilson's glazed eyes turned out to the ashheaps, where small grey clouds took on fantastic shapes and scurried here and
+    there in the faint dawn wind./
