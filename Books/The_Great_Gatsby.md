@@ -266,3 +266,44 @@ scurry 종종걸음 치다 \ 허둥지둥 가다
 
     Wilson's glazed eyes turned out to the ashheaps, where small grey clouds took on fantastic shapes and scurried here and
     there in the faint dawn wind./
+
+4월 27, 2020 
+
+pneumatic 공압의, 공기가 가득한
+
+fortuitously 우발적으로
+
+amorphous 형태가 없는
+
+corrugate 물결모양이 되다(주름잡다)
+
+adventitous 우발적인, 우연한
+
+inquest (사건)조사
+
+racy 짜릿한, 유선형의
+
+pasquinade 풍자( = satire)
+
+    When Michaelis's testimony at the inquest brought to light Wilson's suspicions of his wife I thought the whole tale would shortly be served up in
+    racy pasquinade - but Catherine, who migh have said anything, didn't say a word.
+
+surmise 추측
+
+superflous 불필요한
+
+defiance 반항, 저항
+
+scornful 경멸하는
+
+solidarity 결속,연대
+
+dismay 크게 실망하다
+
+unpunctual (시간을 안 지키는 뜻 말고 다른 뜻) 꼼꼼하지 않은, 규율적이 아닌
+
+ghastly 무시무시한
+
+bulbous 둥글납작한
+
+resolve 결심, 다짐
