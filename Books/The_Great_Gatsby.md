@@ -307,3 +307,28 @@ ghastly 무시무시한
 bulbous 둥글납작한
 
 resolve 결심, 다짐
+
+procession 행진, 행렬
+
+prairie 대초원
+
+sprawling 제멋대로 뻗어나가는 ( sprawl 아무렇게나 널부러 놓다 뭐 이런 뜻)
+
+inquisition 종교 재판, 심문
+
+jauntily 명량하게
+
+provincial 편협한, 고루한
+
+squeamishness 메스꺼움, 까다로움, 신중함
+
+obscene 외설적인, 터무니없는
+
+raspingly 긁는 소리를 내며, 신경질나게
+
+commensurate (크기, 중요도, 자질 등에) 어울리는 \ commensurate to ~에 비례한
+
+    'I'm thirty', I said, 'I'm five years too old to lie to myself and call it honour.'
+
+    Even when the East excited me most, even when I was most keenly aware of its superiority to the bored, sprawling, swollen towns beyond the Ohio,
+    with their interminable inquisitions which spared only the children and the very old - even then it had always for me a quality of distortion.
