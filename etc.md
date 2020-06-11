@@ -1,3 +1,8 @@
 ### 투키디데스의 함정
 
 투키디데스의 함정(Thukydides Trap)은 신흥 강국이 부상하면 기존의 강대국이 이를 견제하는 과정에서 전쟁이 발생한다는 뜻이다. 이 용어는 역사가 투키디데스의 저서 <펠로폰네소스 전쟁사>에서 주장된 것으로, 투키디데스는 기존 맹주 스파르타가 신흥 강국 아테네에 대해 불안감을 느끼게 되고 이에 두 국가는 지중해의 주도권을 쥐기 위해 전쟁을 벌이게 되었다고 주장하였다. 오늘날 '투키디데스의 함정'은 신흥 무역 강국이 기존 구도를 흔들면 기존의 무역 강국과 신흥 무역 강국 간에 무력 충돌이 발생한다는 뜻으로 쓰인다.
+
+# currentTarget, target diff
+target = element that triggered event.
+
+currentTarget = element that has the event listener.
