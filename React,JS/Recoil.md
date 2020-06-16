@@ -19,4 +19,8 @@
 
 ### 내 입장에서 배울 필요가 있는가?
 hook 에 익숙하다면, 쉽게 배울 수 있다고 하며, 얻게 되는 장점도 상당해보임 _ 아무래도 React 팀에서 공식적으로 언급한 state managing lib 이니...
-배워보자
+배워보자!
+
+### Atom, Selector
+Atom 이라는 개념을 통해 component 간 state share 를 가능하게 한다는 점이 매력적이다. component 내에서 useState 했을 때, 해당 component state 변경에 의해 다른 component 가 바뀌게 하려면 상위에 지정해놓아야헸는데, 그렇게 하지 않아도 된다는 소리!
+그리고 Selector 가 그냥 get 만 수행하는 것이 아니라 set 작업도 수행하게 만든다는데... 물론 편리하긴 하겠지만, 정확히 이해되지는 않는다! 아무래도 이름 때문에 그런 것 같기도 하고! selector 라는 이름의 기능인데 get 뿐만 아니라 set 도 지원한다고?! 이런 느낌
