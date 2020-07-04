@@ -6,3 +6,6 @@
 target = element that triggered event.
 
 currentTarget = element that has the event listener.
+
+# constants.js
+프론트 작업할 때 상태 구분을 위해 상수 값을 별도 파일에 정리해놓고 쓰는 편인데, 복붙을 하는 과정에서 가끔씩 key 값은 변경되었지만, value 는 바꾸지 않아서 오작동이 일어나고, 삽질을 하는 경우가 발생한다! 주의하자. 정신 제대로 안 차린 상태에서 비슷한 오류에 빠지면 삽질 오래 할 수도 있다.
